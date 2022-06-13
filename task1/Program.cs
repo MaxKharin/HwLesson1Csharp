@@ -12,7 +12,6 @@ if (first > second)
 {
     Console.WriteLine($"{first} is bigger than {second}");
 }
-
 else if(first == second)
 {
     Console.WriteLine($"{first} is equal to {second}");
